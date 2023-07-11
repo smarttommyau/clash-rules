@@ -5,3 +5,4 @@ payload:
   - '+.cctvpic.*'
   - '.liveplay.myqcloud.com'
   - '+.kcdnvip.*'
+  - '+.cntv.*'
