@@ -2,3 +2,4 @@
 payload:
   - '+.cctv.*'
   - '+.cctvpic.*'
+  - '.liveplay.myqcloud.com'
