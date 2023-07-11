@@ -1,4 +1,4 @@
 #CN
 payload:
-  - '+.cctv.com'
-  - '+.cctv.cn'
+  - '+.cctv.*'
+  - '+.cctvpic.*'
