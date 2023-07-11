@@ -6,3 +6,4 @@ payload:
   - '.liveplay.myqcloud.com'
   - '+.kcdnvip.*'
   - '+.cntv.*'
+  - '+.*.bdydns.com'
