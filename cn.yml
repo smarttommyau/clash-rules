@@ -1,5 +1,7 @@
 #CN
 payload:
+#cctv
   - '+.cctv.*'
   - '+.cctvpic.*'
   - '.liveplay.myqcloud.com'
+  - '+.kcdnvip.*'
